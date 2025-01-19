@@ -114,14 +114,6 @@ Alternatively, deploy the app to a cloud provider like [Vercel](https://vercel.c
 
 ---
 
-## Video Guide
-
-If you prefer a video walkthrough of how to build this application, watch the tutorial here:
-
-[Video Tutorial Link](https://youtu.be/ScR8ShNG9CU) (Replace with the actual link)
-
----
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
